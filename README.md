@@ -339,6 +339,15 @@ index=security sourcetype=fast_alert
 | Ubuntu Server | Latest | IDS + SIEM host |
 
 ---
+## Screenshots
+Dashboard
+<img width="1920" height="1080" alt="Screenshot 2026-06-21 214017" src="https://github.com/user-attachments/assets/5076fd48-634f-4e2c-9228-bcbfaeb5215a" />
+Wireshark I/O Graph
+<img width="1920" height="1080" alt="Screenshot 2026-06-21 215202" src="https://github.com/user-attachments/assets/50156e24-dad8-4b77-b488-85cdb9042286" />
+Dos/DDoS Alerts
+<img width="1920" height="1080" alt="Screenshot 2026-06-21 214506" src="https://github.com/user-attachments/assets/ff3d3d3a-4375-4c96-b90c-c0593268beb9" />
+Wireshark Detection
+<img width="1920" height="1080" alt="Screenshot 2026-06-21 214711" src="https://github.com/user-attachments/assets/08d3822d-89cb-48b9-bb8d-3bc895d4ae0a" />
 
 ##  License
 
