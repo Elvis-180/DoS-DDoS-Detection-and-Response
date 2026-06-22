@@ -9,6 +9,10 @@
 > A fully functional home SOC lab simulating, detecting, and responding to DoS/DDoS attacks using a layered defense architecture — Snort IDS + Splunk SIEM + pfSense Firewall.
 
 ---
+##  Project Report
+
+>  [Download Full SOC Lab Report (PDF)](DoS_DDoS_SOC_Lab_ILLUSTRATED.pdf)
+---
 
 ##  Table of Contents
 
