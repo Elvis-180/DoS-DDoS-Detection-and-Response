@@ -11,7 +11,8 @@
 ---
 ##  Project Report
 
->  [Download Full SOC Lab Report (PDF)](DoS_DDoS_SOC_Lab_ILLUSTRATED.pdf)
+>  [Download Full SOC Lab Report (PDF)](DoS%20DDoS%20SOC%20Lab%20Report%20ILLUSTRATED.pdf)
+
 ---
 
 ##  Table of Contents
