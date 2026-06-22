@@ -60,8 +60,8 @@ This project demonstrates a complete **DoS/DDoS detection and response pipeline*
          ┌────────────────┼────────────────┐
          │                │                │
          ▼                ▼                ▼
-  LAN (192.168.1.x)   OPT1            Workstation
-         │           (192.168.2.x)    (192.168.3.x)
+  LAN (192.168.1.2)   OPT1            Workstation
+         │           (192.168.2.1)    (192.168.3.1)
    ┌─────┴──────┐         │                │
    │            │     Kali Linux       Windows 10
 Windows      Ubuntu    192.168.2.5     192.168.3.2
