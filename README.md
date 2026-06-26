@@ -11,7 +11,7 @@
 ---
 ##  Project Report
 
->  [Download Full SOC Lab Report (PDF)](DoS%20DDoS%20SOC%20Lab%20Report%20ILLUSTRATED.pdf)
+>  [DoS/DDoS Detection and Response(PDF)](DoS%20DDoS%20SOC%20Lab%20Report%20ILLUSTRATED.pdf)
 
 ---
 
